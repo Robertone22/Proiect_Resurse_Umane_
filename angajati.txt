@@ -1,0 +1,3 @@
+Manager Andrei 45 9000
+Intern Radu 22 2000
+HR Elena 39 8000
